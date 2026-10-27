@@ -1,6 +1,6 @@
 <div align="center">
 
-![Célestin Wokgoué - Immigration, conformité et technologie](assets/profile-banner.svg)
+![Célestin Wokgoué - Immigration, conformité et technologie](assets/bandeau_gitHub_wviscanada_officiel.png)
 
 **Regulated Canadian Immigration Consultant (RCIC-IRB) | Consultant réglementé en immigration canadienne (CRIC-CISR)**
 
