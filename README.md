@@ -1,63 +1,70 @@
+<div align="center">
 
-# 👋 Célestin Wokgoué
+![Célestin Wokgoué - Immigration, conformité et technologie](assets/profile-banner.svg)
 
-### Regulated Canadian Immigration Consultant (RCIC-IRB)
-### Consultant réglementé en immigration canadienne (CRIC-CISR)
-
-**Founder | Immigration Technology | AI & Automation**
+**Regulated Canadian Immigration Consultant (RCIC-IRB) | Consultant réglementé en immigration canadienne (CRIC-CISR)**
 
 📍 Gatineau, Québec, Canada
 
-## 🇨🇦 About Me
+[![Website](https://img.shields.io/badge/Site%20web-wviscanada.ca-0B3671?style=flat-square)](https://wviscanada.ca)
+[![Email](https://img.shields.io/badge/Contact-Courriel-D72638?style=flat-square)](mailto:info@wviscanada.ca)
+[![YouTube](https://img.shields.io/badge/YouTube-wviscanada-0B3671?style=flat-square)](https://www.youtube.com/@wviscanada)
 
-I am a Regulated Canadian Immigration Consultant (RCIC-IRB) and the founder of **Wokgoué Visa & Immigration Services Inc.**
+</div>
 
-My professional activities focus on Canadian and Québec immigration, regulatory compliance, client representation, and immigration case management.
+## 🇫🇷 Bienvenue
 
-I am also developing **WVIS-OS-App**, an immigration practice management platform focused on structured workflows, secure information management, and responsible automation.
+Je suis **Célestin Wokgoué**, consultant réglementé en immigration canadienne (CRIC-CISR) et fondateur de **Wokgoué Visa & Immigration Services Inc.** (wviscanada), établi à Gatineau, au Québec.
 
-## 🇫🇷 À propos de moi
+Ma pratique porte sur l'immigration canadienne et québécoise, la représentation des clients, la conformité réglementaire et la gestion des dossiers d'immigration.
 
-Je suis consultant réglementé en immigration canadienne (CRIC-CISR) et fondateur de **Wokgoué Visa & Immigration Services Inc.**
+Je m'intéresse également aux applications concrètes du développement logiciel, de l'intelligence artificielle et de l'automatisation responsable dans les services professionnels.
 
-Mon expertise couvre l'immigration canadienne et québécoise, la conformité réglementaire, la représentation des clients et la gestion des dossiers d'immigration.
+## 🇨🇦 Welcome
 
-Je développe également **WVIS-OS-App**, une plateforme de gestion professionnelle des dossiers d'immigration visant à améliorer l'organisation du travail, la sécurité de l'information et l'automatisation responsable.
+I am **Célestin Wokgoué**, a Regulated Canadian Immigration Consultant (RCIC-IRB) and founder of **Wokgoué Visa & Immigration Services Inc.** (wviscanada), based in Gatineau, Québec, Canada.
 
-## 💻 Technology & Innovation
+My practice focuses on Canadian and Québec immigration, client representation, regulatory compliance, and immigration case management.
 
-Areas of interest:
+I am also interested in practical applications of software development, artificial intelligence, and responsible automation in professional services.
 
-- Immigration practice management software
-- Artificial intelligence and workflow automation
-- Secure document and case management
-- Software engineering and quality assurance
-- Privacy, data protection and regulatory compliance
+## 🚀 WVIS-OS-App | Immigration Practice Technology
 
-## 🚀 Featured Project
+**Statut / Status: Active development / Développement en cours**
 
-### WVIS-OS-App
+**FR :** WVIS-OS-App est un projet de développement logiciel visant à soutenir la gestion des dossiers d'immigration et l'organisation des activités d'un cabinet. Les fonctionnalités et les capacités de la plateforme évoluent au fil du développement.
 
-A software development initiative dedicated to modernizing immigration practice management.
+**EN:** WVIS-OS-App is a software development project focused on immigration case management and professional practice workflows. Platform features and capabilities are evolving as development progresses.
 
-**Status:** Active development
+> Le code source, la documentation interne et les informations confidentielles du projet ne sont pas publiés ici.  
+> Source code, internal documentation, and confidential project information are not published here.
 
-*Technical implementation details and private repositories are not publicly disclosed.*
+## 💻 Domaines d'intérêt | Areas of Interest
 
-## 📜 Professional Credentials
+- Gestion des dossiers d'immigration | Immigration case management
+- Automatisation des processus | Workflow automation
+- Intelligence artificielle responsable | Responsible AI
+- Sécurité et confidentialité des données | Data privacy and security
+- Qualité logicielle et conformité | Software quality and compliance
 
-**CICC Licence:** R708543
+## 📜 Titres professionnels | Professional Credentials
 
-**Québec Recognition:** 11979
+| Français | English | Référence / Reference |
+|---|---|---|
+| Consultant réglementé en immigration canadienne (CRIC-CISR) | Regulated Canadian Immigration Consultant (RCIC-IRB) | **CCIC / CICC : R708543** |
+| Reconnaissance au Québec | Québec recognition | **11979** |
 
-## 🌐 Connect With Me
+## 🌐 Liens professionnels | Professional Links
 
-- 🌍 Website: https://wviscanada.ca
-- 📧 Email: info@wviscanada.ca
-- ▶️ YouTube: https://www.youtube.com/@wviscanada
-- 📱 TikTok: https://www.tiktok.com/@wviscanada.ca
-- 💼 Facebook: https://www.facebook.com/wviscanada
+- **Site web / Website :** [wviscanada.ca](https://wviscanada.ca)
+- **Courriel / Email :** [info@wviscanada.ca](mailto:info@wviscanada.ca)
+- **YouTube :** [@wviscanada](https://www.youtube.com/@wviscanada)
+- **TikTok :** [@wviscanada.ca](https://www.tiktok.com/@wviscanada.ca)
+- **Facebook :** [wviscanada](https://www.facebook.com/wviscanada)
 
----
+<div align="center">
 
+**Professionnalisme • Innovation • Conformité**  
 *Professionalism • Innovation • Compliance*
+
+</div>
